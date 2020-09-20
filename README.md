@@ -26,6 +26,7 @@ FOOD DETECTION
 
 OBJECT DETECTION
 
+![About of ASSIST-ME](https://github.com/VishwajeetJK/ASSIST-ME---HackMIT-Project/blob/master/Screen%20Shot%202020-09-20%20at%205.15.12%20PM.png)
 
 
 ![LOGO of ASSIST-ME](https://github.com/VishwajeetJK/HackMIT_Project/blob/master/Component%201.png)
