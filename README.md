@@ -28,7 +28,7 @@ OBJECT DETECTION
 
 ![About of ASSIST-ME](https://github.com/VishwajeetJK/ASSIST-ME---HackMIT-Project/blob/master/Screen%20Shot%202020-09-20%20at%205.15.12%20PM.png)
 
-View Our Presentation Here:  ![About of ASSIST-ME](https://www.canva.com/design/DAD2VR2kx3c/bTa69qnvCkPUdz09Wutzow/view?utm_content=DAD2VR2kx3c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+View Our Presentation Here:[ASSIST-ME](https://www.canva.com/design/DAD2VR2kx3c/bTa69qnvCkPUdz09Wutzow/view?utm_content=DAD2VR2kx3c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ![LOGO of ASSIST-ME](https://github.com/VishwajeetJK/HackMIT_Project/blob/master/Component%201.png)
 
