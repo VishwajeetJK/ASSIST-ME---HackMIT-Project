@@ -1,6 +1,6 @@
 # ASSIST ME
+![LOGO of ASSIST-ME](https://github.com/VishwajeetJK/HackMIT_Project/blob/master/Component%201.png)
 
-![Image of ASSIST-ME](https://github.com/VishwajeetJK/ASSIST-ME---HackMIT-Project/blob/master/Screen%20Shot%202020-09-20%20at%204.59.04%20PM.png)
 
 Smart Home for Disabled People - In a widely populated country like India, almost 5 crore people are suffering from one or the other kind of disability and in most of those houses the disabled people have to stay at home when their family members leave for work.
 
@@ -30,5 +30,4 @@ OBJECT DETECTION
 
 View Our Presentation Here:    [ASSIST-ME](https://www.canva.com/design/DAD2VR2kx3c/bTa69qnvCkPUdz09Wutzow/view?utm_content=DAD2VR2kx3c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-![LOGO of ASSIST-ME](https://github.com/VishwajeetJK/HackMIT_Project/blob/master/Component%201.png)
 
